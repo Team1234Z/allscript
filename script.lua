@@ -203,7 +203,7 @@ local function Main()
         
         -- ตรงนี้ใส่โค้ดหลักของสคริปต์
         -- ตัวอย่าง:
-        loadstring(LoadURL("https://raw.githubusercontent.com/YourUsername/AttackOnTitan/main/core.lua"))()
+        loadstring(LoadURL("https://raw.githubusercontent.com/Team1234Z/allscript/refs/heads/main/script.lua"))()
         
     else
         -- Key ไม่ถูกต้อง
